@@ -47,3 +47,17 @@ Na Aula 02 da série prática de 12 dias de Streamlit, o foco foi a criação de
 ### Objetivo da aula
 Demonstrar como estruturar aplicações Streamlit mais organizadas e interativas, aproximando o desenvolvimento de dashboards da experiência real do usuário final.
 
+### Exercício — Aula 02 | Calculadora Interativa em Streamlit
+
+Como exercício prático da Aula 02, foi desenvolvida uma **calculadora interativa** utilizando Streamlit, com foco em layout e lógica de aplicação.
+
+#### Conceitos aplicados
+- Entrada de dados numéricos com `st.number_input`
+- Organização visual com `st.columns`
+- Criação de múltiplos botões para ações distintas
+- Execução de lógica condicional baseada na interação do usuário
+- Exibição dinâmica dos resultados
+
+Esse exercício reforça a base necessária para o desenvolvimento de aplicações interativas mais complexas, como simuladores, ferramentas internas e dashboards orientados a regras de negócio.
+
+#
