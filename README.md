@@ -31,3 +31,19 @@ Como exercício prático da Aula 01, foi desenvolvida uma aplicação simples em
 Mesmo sendo um exercício introdutório, ele reforça conceitos fundamentais que serão reutilizados ao longo da série na construção de dashboards e aplicações de dados mais avançadas.
 
 #
+
+## Aula 02 — Layout e Elementos Interativos no Streamlit
+
+Na Aula 02 da série prática de 12 dias de Streamlit, o foco foi a criação de **interfaces interativas** e a organização visual da aplicação.
+
+### Conteúdos abordados
+- Uso da barra lateral (`st.sidebar`) para inputs e mensagens
+- Organização do layout com colunas (`st.columns`)
+- Criação de interações com botões (`st.button`)
+- Entrada de valores com `st.slider` e `st.number_input`
+- Exibição de mensagens de feedback (`st.success`, `st.info`, `st.warning`)
+- Inserção de imagens externas na interface
+
+### Objetivo da aula
+Demonstrar como estruturar aplicações Streamlit mais organizadas e interativas, aproximando o desenvolvimento de dashboards da experiência real do usuário final.
+
